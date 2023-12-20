@@ -191,7 +191,7 @@ UnminedCustomMarkers = {
             image: "custom.pin.png",
             imageAnchor: [0.5, 1],
             imageScale: 0.2,
-            text: "Jungle Biome Portal",
+            text: "Tunnel to Christmas Town!",
             textColor: "black", 
             offsetX: 0,
             offsetY: 20,
