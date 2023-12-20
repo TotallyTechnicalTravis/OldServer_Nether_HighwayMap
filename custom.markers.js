@@ -77,7 +77,18 @@ UnminedCustomMarkers = {
         },*/
 
         // add your markers here
-
+        {
+            x: 402,
+            z: -43,
+            image: "custom.pin.png",
+            imageAnchor: [0.5, 1],
+            imageScale: 0.2,
+            text: "Spawn Village Portal",
+            textColor: "black", 
+            offsetX: 0,
+            offsetY: 20,
+            font: "bold 15px Calibri,sans serif",
+        },
 
 
 
