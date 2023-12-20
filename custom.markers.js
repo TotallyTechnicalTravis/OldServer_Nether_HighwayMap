@@ -125,9 +125,54 @@ UnminedCustomMarkers = {
             offsetY: 20,
             font: "bold 15px Calibri,sans serif",
         },
-
-
-
+                {
+            x: 433,
+            z: -467,
+            image: "custom.pin.png",
+            imageAnchor: [0.5, 1],
+            imageScale: 0.2,
+            text: "Jungle Biome Portal",
+            textColor: "black", 
+            offsetX: 0,
+            offsetY: 20,
+            font: "bold 15px Calibri,sans serif",
+        },
+                {
+            x: 433,
+            z: -692,
+            image: "custom.pin.png",
+            imageAnchor: [0.5, 1],
+            imageScale: 0.2,
+            text: "Wither Battle Base Portal",
+            textColor: "black", 
+            offsetX: 0,
+            offsetY: 20,
+            font: "bold 15px Calibri,sans serif",
+        },
+                {
+            x: 218,
+            z: -105,
+            image: "custom.pin.png",
+            imageAnchor: [0.5, 1],
+            imageScale: 0.2,
+            text: "End Portal Base",
+            textColor: "black", 
+            offsetX: 0,
+            offsetY: 20,
+            font: "bold 15px Calibri,sans serif",
+        },
+                {
+            x: 188,
+            z: -44,
+            image: "custom.pin.png",
+            imageAnchor: [0.5, 1],
+            imageScale: 0.2,
+            text: "Sam's Town Portal",
+            textColor: "black", 
+            offsetX: 0,
+            offsetY: 20,
+            font: "bold 15px Calibri,sans serif",
+        },
 
         // do not delete the following two closing brackets
     ]
