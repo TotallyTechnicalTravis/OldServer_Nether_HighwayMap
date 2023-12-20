@@ -89,6 +89,43 @@ UnminedCustomMarkers = {
             offsetY: 20,
             font: "bold 15px Calibri,sans serif",
         },
+        {
+            x: 286,
+            z: 11,
+            image: "custom.pin.png",
+            imageAnchor: [0.5, 1],
+            imageScale: 0.2,
+            text: "HipHopScotch's Base Portal & Piglin Trading Hall",
+            textColor: "black", 
+            offsetX: 0,
+            offsetY: 20,
+            font: "bold 15px Calibri,sans serif",
+        },
+        {
+            x: 285,
+            z: -72,
+            image: "custom.pin.png",
+            imageAnchor: [0.5, 1],
+            imageScale: 0.2,
+            text: "Clament Siren's Portal",
+            textColor: "black", 
+            offsetX: 0,
+            offsetY: 20,
+            font: "bold 15px Calibri,sans serif",
+        },
+                {
+            x: 216,
+            z: -229,
+            image: "custom.pin.png",
+            imageAnchor: [0.5, 1],
+            imageScale: 0.2,
+            text: "Guardian Farm Portal",
+            textColor: "black", 
+            offsetX: 0,
+            offsetY: 20,
+            font: "bold 15px Calibri,sans serif",
+        },
+
 
 
 
